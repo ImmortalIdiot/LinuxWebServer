@@ -5,7 +5,7 @@ plugins {
 }
 
 application {
-    mainClass.set("com.example.MainKt")
+    mainClass.set("com.immortalidiot.MainKt")
 }
 
 repositories {
