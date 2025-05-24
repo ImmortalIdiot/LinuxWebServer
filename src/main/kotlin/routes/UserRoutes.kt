@@ -9,7 +9,7 @@ fun Route.userRoutes() {
         get {
             call.respond(
                 listOf(
-                    User(1, "Random User"),
+                    User(1, "Krasulya Maxim"),
                     User(2, "John Doe")
                 )
             )
